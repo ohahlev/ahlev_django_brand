@@ -1,4 +1,4 @@
-# Brand Application
+# A Brand Application
 ![pypi](https://img.shields.io/pypi/v/ahlev_django_brand) ![pypi](https://img.shields.io/pypi/status/ahlev_django_brand)
 
 ## install from this repository
