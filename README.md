@@ -61,3 +61,14 @@ install ahlev_django_brand from the project directory
 
 
 ## screenshots
+### dashboard
+![](screenshots/dashboard.png)
+
+### list
+![](screenshots/list.png)
+
+### edit
+![](screenshots/edit.png)
+
+### brands
+![](screenshots/brand.png)
