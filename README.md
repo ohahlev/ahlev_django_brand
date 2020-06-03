@@ -32,8 +32,10 @@ install ahlev_django_brand from the project directory
 ### add ahlev_django_brand to settings.py
 
     INSTALLED_APPS = [
-      'ahlev_django_brand',  # add this line
-      'ahlev_django_uikit',  # add this line
+      'ahlev_django_brand', # add this line
+      'layout',             # make sure you have this line
+      'ahlev_django_uikit', # make sure you have this line
+      'widget_tweaks',      # make sure you have this line
       ...
     ]
 
